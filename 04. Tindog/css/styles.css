@@ -20,8 +20,8 @@ h3{
 h2{
     font-family: 'Montserrat-Black', sans-serif;
     font-weight: 900;
-    font-size: 3rem;
-    line-height: 3.4rem;
+    font-size: 1.5rem;
+    line-height: 3rem;
 }
 
 p{
@@ -90,9 +90,28 @@ p{
 
 /* Testimonials Section */
 
-#testimonials{
-    padding: 7% 5%;
+#testimonials-carousel{
     background-color: #ef8172;
     color: #fff;
 
+}
+
+.testimonial-image{
+    border-radius: 50%;
+    margin: 20px;
+    width: 10%;
+}
+
+.carousel-item{
+    padding: 7% 5%;
+}
+
+#press{
+    background-color: #ef8172;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
 }
