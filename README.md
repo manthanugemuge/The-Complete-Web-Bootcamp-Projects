@@ -7,8 +7,8 @@
 
 ## 📍 My CV
 
-- 📦 [Repository](https://github.com/ManthanUgemuge/The-Complete-Web-Bootcamp-Projects/tree/main/01.%20my-cv)
-- 🖥 [Site](https://manthanugemuge.github.io/The-Complete-Web-Bootcamp-Projects/01.%20my-cv)
+[![Repository](https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white "Github")](https://github.com/ManthanUgemuge/The-Complete-Web-Bootcamp-Projects/tree/main/01.%20my-cv)
+[![Live Demo](https://custom-icon-badges.herokuapp.com/badge/-Live-brightgreen?style=for-the-badge&logo=eye&logoColor=white "Live Demo")](https://manthanugemuge.github.io/The-Complete-Web-Bootcamp-Projects/01.%20my-cv)
 
 ## 📍 Chicken Fansite
 
