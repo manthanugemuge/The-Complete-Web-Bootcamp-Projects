@@ -7,23 +7,23 @@
 
 ## 📍 My CV
 
-- 📦 [Repository](https://github.com/ManthanUgemuge/The-Complete-Web-Bootcamp-Projects/tree/main/01.%20my-cv)
-- 🖥 [Site](https://manthanugemuge.github.io/The-Complete-Web-Bootcamp-Projects/01.%20my-cv)
+[![Repository](https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white "Github")](https://github.com/ManthanUgemuge/The-Complete-Web-Bootcamp-Projects/tree/main/01.%20my-cv)
+[![Live Demo](https://custom-icon-badges.herokuapp.com/badge/-Live-brightgreen?style=for-the-badge&logo=eye&logoColor=white "Live Demo")](https://manthanugemuge.github.io/The-Complete-Web-Bootcamp-Projects/01.%20my-cv)
 
 ## 📍 Chicken Fansite
 
-- 📦 [Repository](https://github.com/ManthanUgemuge/The-Complete-Web-Bootcamp-Projects/tree/main/02.%20chicken-fansite)
-- 🖥 [Site](https://manthanugemuge.github.io/The-Complete-Web-Bootcamp-Projects/02.%20chicken-fansite)
+[![Repository](https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white "Github")](https://github.com/ManthanUgemuge/The-Complete-Web-Bootcamp-Projects/tree/main/02.%20chicken-fansite)
+[![Live Demo](https://custom-icon-badges.herokuapp.com/badge/-Live-brightgreen?style=for-the-badge&logo=eye&logoColor=white "Live Demo")](https://manthanugemuge.github.io/The-Complete-Web-Bootcamp-Projects/02.%20chicken-fansite)
 
 ## 📍 My Website
 
-- 📦 [Repository](https://github.com/ManthanUgemuge/The-Complete-Web-Bootcamp-Projects/tree/main/03.%20my-website)
-- 🖥 [Site](https://manthanugemuge.github.io/The-Complete-Web-Bootcamp-Projects/03.%20my-website)
+[![Repository](https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white "Github")](https://github.com/ManthanUgemuge/The-Complete-Web-Bootcamp-Projects/tree/main/03.%20my-website)
+[![Live Demo](https://custom-icon-badges.herokuapp.com/badge/-Live-brightgreen?style=for-the-badge&logo=eye&logoColor=white "Live Demo")](https://manthanugemuge.github.io/The-Complete-Web-Bootcamp-Projects/03.%20my-website)
 
 ## 📍 Tin Dog
 
-- 📦 [Repository](https://github.com/ManthanUgemuge/The-Complete-Web-Bootcamp-Projects/tree/main/04.%20Tindog)
-- 🖥 [Site](https://manthanugemuge.github.io/The-Complete-Web-Bootcamp-Projects/04.%20Tindog)
+[![Repository](https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white "Github")](https://github.com/ManthanUgemuge/The-Complete-Web-Bootcamp-Projects/tree/main/04.%20Tindog)
+[![Live Demo](https://custom-icon-badges.herokuapp.com/badge/-Live-brightgreen?style=for-the-badge&logo=eye&logoColor=white "Live Demo")](https://manthanugemuge.github.io/The-Complete-Web-Bootcamp-Projects/04.%20Tindog)
 
 ## How to use Project
 
