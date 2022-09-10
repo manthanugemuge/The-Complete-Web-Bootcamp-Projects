@@ -25,6 +25,11 @@
 [![Repository](https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white "Github")](https://github.com/ManthanUgemuge/The-Complete-Web-Bootcamp-Projects/tree/main/04.%20Tindog)
 [![Live Demo](https://custom-icon-badges.herokuapp.com/badge/-Live-brightgreen?style=for-the-badge&logo=eye&logoColor=white "Live Demo")](https://manthanugemuge.github.io/The-Complete-Web-Bootcamp-Projects/04.%20Tindog)
 
+## 📍 Dice Game
+
+[![Repository](https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white "Github")](https://github.com/ManthanUgemuge/The-Complete-Web-Bootcamp-Projects/tree/main/05.%20dice)
+[![Live Demo](https://custom-icon-badges.herokuapp.com/badge/-Live-brightgreen?style=for-the-badge&logo=eye&logoColor=white "Live Demo")](https://manthanugemuge.github.io/The-Complete-Web-Bootcamp-Projects/05.%20dice)
+
 ## How to use Project
 
 - Download or clone the repository Website : 
